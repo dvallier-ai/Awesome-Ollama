@@ -21,7 +21,7 @@ inspired by [Awesome Python](https://github.com/vinta/awesome-python)
 
 | Name/Link                                                                      | Description                                                                                            | Install Type             |
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ------------------------ |
-| [Agent Pack Store](https://github.com/dvallier-ai/agent-pack-store)            | Installable local agent kit: scripts, Python agent skeleton, eval harness                            | git clone                |
+| [Agent Pack Store](https://github.com/dvallier-ai/agent-pack-store)            | Installable local agent kit: scripts, Python agent skeleton, eval harness                              | git clone                |
 | [Claude Code](https://code.claude.com/docs/en/overview)                        | Agentic coding tool by Anthropic                                                                       | Download                 |
 | [Cline CLI](https://docs.cline.bot/usage/cli-overview)                         | Autonomous coding agent for the terminal                                                               | npm                      |
 | [Codex App](https://developers.openai.com/codex/quickstart/)                   | OpenAI desktop coding agent                                                                            | Download                 |
